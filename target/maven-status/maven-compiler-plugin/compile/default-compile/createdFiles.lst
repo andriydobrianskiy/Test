@@ -1,0 +1,8 @@
+com\javaspringclub\config\HibernateConfig.class
+com\javaspringclub\repository\UserRepository.class
+com\javaspringclub\entity\User.class
+com\javaspringclub\service\UserServiceImpl.class
+com\javaspringclub\config\ServletInitializer.class
+com\javaspringclub\controller\UserController.class
+com\javaspringclub\config\WebMvcConfig.class
+com\javaspringclub\service\UserService.class
